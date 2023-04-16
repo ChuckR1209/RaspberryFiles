@@ -2,27 +2,33 @@
   warnings.warn(
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -30,13 +36,13 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -60,17 +66,15 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -82,19 +86,15 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -119,10 +119,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -139,8 +135,12 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -149,6 +149,8 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -158,31 +160,27 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -195,16 +193,18 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -219,22 +219,16 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -242,17 +236,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -268,8 +256,6 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -279,8 +265,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -290,6 +274,8 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -299,8 +285,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -312,25 +296,19 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -338,15 +316,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -354,8 +328,6 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -364,7 +336,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -374,7 +346,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -384,7 +356,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -398,17 +370,15 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -423,6 +393,8 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -434,11 +406,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -459,8 +431,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -481,12 +451,10 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -500,7 +468,9 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -509,14 +479,12 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -526,6 +494,8 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -533,6 +503,8 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -542,7 +514,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -558,11 +530,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -570,7 +542,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -580,7 +552,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -588,19 +560,23 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -608,6 +584,8 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -617,8 +595,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -626,15 +602,17 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -644,15 +622,17 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -660,7 +640,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -683,8 +663,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -697,20 +675,14 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -726,11 +698,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -738,7 +710,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -748,15 +720,13 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -768,7 +738,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -792,9 +762,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -806,7 +774,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -818,7 +790,11 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -828,16 +804,22 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -862,7 +844,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -870,7 +852,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -882,7 +864,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -894,7 +876,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -903,6 +885,10 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -911,8 +897,12 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -921,6 +911,8 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -930,9 +922,13 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -945,10 +941,18 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -958,7 +962,7 @@
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -969,12 +973,10 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
@@ -995,8 +997,6 @@
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:494: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/tradingViewTestRasp.py:470: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   spx_df = spx_df.append({'Symbol': ss, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
