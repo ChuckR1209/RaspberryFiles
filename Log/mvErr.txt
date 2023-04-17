@@ -1,0 +1,1 @@
+/usr/bin/mv: cannot move '/home/chakravartir/GitHub/RaspberryFiles/Files/Crypto' to '/home/chakravartir/GitHub/RaspberryFiles/Archive/Crypto': Directory not empty
