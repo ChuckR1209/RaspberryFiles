@@ -1,3 +1,0 @@
-remote: Resolving deltas:   0% (0/4)        remote: Resolving deltas:  25% (1/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas: 100% (4/4)        remote: Resolving deltas: 100% (4/4), completed with 2 local objects.        
-To https://github.com/ChuckR1209/RaspberryFiles.git
-   645de38..12f6e35  main -> main
