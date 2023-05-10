@@ -326,8 +326,8 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:574: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -366,8 +366,8 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:574: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:574: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -516,8 +516,8 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -1172,8 +1172,8 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -1402,14 +1402,14 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -2336,8 +2336,8 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:574: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:574: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
@@ -2402,8 +2402,8 @@
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
-/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:605: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-  notFound_df = notFound_df.append({'Symbol': symbol}, ignore_index=True)
+/home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:574: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
   crypto_df = crypto_df.append({'Symbol': symbol, 'RECOMMENDATION' :dict1['RECOMMENDATION'], 'BUY': dict1['BUY'],
 /home/chakravartir/GitHub/myDev/cryptoBot-ReadFileRasp.py:598: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
