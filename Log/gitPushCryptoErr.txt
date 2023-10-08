@@ -1,2 +1,0 @@
-To https://github.com/ChuckR1209/RaspberryFiles.git
-   7d6062f..5bb2f75  main -> main
